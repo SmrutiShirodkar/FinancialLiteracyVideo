@@ -1,4 +1,4 @@
-# AI-Powered Financial Literacy Video Generator  
+# Financial Literacy Video Generator  
 
 ## **Overview**  
 Overview
