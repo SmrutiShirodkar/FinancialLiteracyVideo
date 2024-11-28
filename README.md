@@ -26,22 +26,22 @@ This project is the initial step in merging AI with financial education. It auto
 
 
 FinancialLiteracyVideo/
-├── data/
-│   ├── input.txt           # Input text for summarization
-│   ├── input.pdf           # (New) PDF file for scraping
-├── images/
-│   ├── downloaded/         # Images fetched using keywords
-├── output/
-│   ├── video.mp4           # Final generated video
-├── scripts/
-│   ├── pdf_scraper.py      # (New) Script to extract text from PDFs
-│   ├── summarizer.py       # Script for summarization
-│   ├── keyword_extractor.py # Script for keyword extraction
-│   ├── image_downloader.py  # Script to download images
-│   ├── overlay_text.py     # Script to overlay text on images
-│   ├── video_creator.py    # Main script to execute the program
-├── requirements.txt        # Dependencies
-├── README.md               # Documentation
+── data/
+   ── input.txt           # Input text for summarization
+   ── input.pdf           # (New) PDF file for scraping
+── images/
+   ── downloaded/         # Images fetched using keywords
+── output/
+   ── video.mp4           # Final generated video
+── scripts/
+   ── pdf_scraper.py      # (New) Script to extract text from PDFs
+   ── summarizer.py       # Script for summarization
+   ── keyword_extractor.py # Script for keyword extraction
+   ── image_downloader.py  # Script to download images
+   ── overlay_text.py     # Script to overlay text on images
+   ── video_creator.py    # Main script to execute the program
+── requirements.txt        # Dependencies
+── README.md               # Documentation
 
 ---
 
@@ -64,7 +64,7 @@ FinancialLiteracyVideo/
   - `KeyBERT`: For keyword extraction.  
   - `google_images_download`: For fetching relevant images.  
   - `cv2` (OpenCV): For image processing and text overlay.  
-  - `skvideo`: For video creation.  
+  - `skvideo`: For video creation. 
 
 - **Machine Learning**: Pre-trained models for text analysis and summarization.  
 
