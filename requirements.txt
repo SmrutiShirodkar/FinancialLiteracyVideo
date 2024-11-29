@@ -1,0 +1,6 @@
+transformers
+keybert
+google_images_download
+opencv-python
+numpy
+scikit-video
